@@ -1,6 +1,6 @@
 # Mollysen / readme
 +<p align="center">
-  <img src="https://cdn105.picsart.com/205483392001202.gif?to=min&r=640">
+  <img src="https://im7.ezgif.com/tmp/ezgif-7-4118525465cc.gif">
 </p>   
 <br>
 <br>
