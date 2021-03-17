@@ -13,7 +13,7 @@
 <p align="center">
   <br>
   <strong>Hi user !<br>
-  Hello am just Mona Lisa,<br>
+  Am Mona Lisa,<br>
   Enjoy on my Git !</strong> <br>
   <br>
   </strong>
