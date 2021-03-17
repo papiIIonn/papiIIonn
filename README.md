@@ -1,11 +1,11 @@
 # Mollysen / readme
 +<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/821482062434402346/821487433274097684/tenor.gif" >
   <img src="https://cdn.discordapp.com/attachments/821482062434402346/821487368510242866/original_1.gif">
 </p>   
 <br>
 <br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/821482062434402346/821487433274097684/tenor.gif" >
 <img src="https://github-readme-stats.vercel.app/api?username=Mollysen&show_icons=true&theme=tokyonight" >
 </p>
 <br>
