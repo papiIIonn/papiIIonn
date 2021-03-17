@@ -19,7 +19,7 @@
   </strong>
 
 <p align="center">
-       <a href="https://discord.gg/3C9TUWDn">
+       <a href="https://discord.gg/classroom">
        <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
        </a>
 
