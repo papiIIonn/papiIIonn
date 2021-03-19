@@ -21,7 +21,7 @@
   <br>
   <strong>こんにちはユーザー !<br>
   Am Mona Lisa i hav 20Y<br>
-  幸せ on my Gi ! </strong> <br>
+  幸せ on my Giy ! </strong> <br>
   <br>
   </strong>
 
