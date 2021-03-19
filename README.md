@@ -30,9 +30,9 @@
        <a href="https://discord.gg/WjSPcjSBBH">
        <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
        <a>
-        <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/3V4NGELlON?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+        <a href="https://twitter.com/intent/follow?screen_name=3V4NGELlON">
+        <img src="https://twitter.com/3V4NGELlON"
+        </a>
 
 <br>
 <br>
