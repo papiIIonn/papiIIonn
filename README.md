@@ -1,6 +1,6 @@
 # Mollysen / readme
 <p align="center">
-  <img src="https://im7.ezgif.com/tmp/ezgif-7-7c43378f0b03.gif" >
+  <img src="https://cdn.discordapp.com/attachments/797389031330938890/824017274180206642/ezgif-7-edffc0bcc5e1.gif" >
 </p>   
 <br>
 <br>
