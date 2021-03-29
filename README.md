@@ -1,4 +1,4 @@
-# Mollysen / readme
+# SoIaar / readme
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/797389031330938890/824017274180206642/ezgif-7-edffc0bcc5e1.gif" >
 </p>   
