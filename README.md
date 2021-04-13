@@ -1,6 +1,6 @@
 # SoIaar / readme
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/825417923627057182/826152161028079616/ezgif-4-9605400aebb1.gif" >
+  <img src="https://cdn.discordapp.com/attachments/831515929757876297/831515976121319464/ezgif-6-a21823c83d51.webp" >
 </p>   
 <br>
 <br>
