@@ -29,7 +29,7 @@
        <a href="https://discord.gg/WjSPcjSBBH">
        <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
        <a>
-       <a href="https://twitter.com/3V4NGELlON">
+       <a href="https://twitter.com/rynceII">
        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
        </a>
          
