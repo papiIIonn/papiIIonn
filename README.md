@@ -19,7 +19,7 @@
 
 <p align="center">
   <br>
-  <strong>こんにちはユーザー !<br>
+  <strong>Добро пожаловать сукин сын !<br>
   Am Mona Lisa i hav 20Y<br>
   幸せ on my Giy ! </strong> <br>
   <br>
