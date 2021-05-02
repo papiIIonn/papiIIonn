@@ -20,11 +20,11 @@
 <p align="center">
   <br>
   <strong>Добро пожаловать сукин сын !<br>
-  Am Mona Lisa i hav 20Y<br>
-  幸せ on my Giy ! </strong> <br>
+  Это Мона Лиза, и мне 508 лет <br>
+  И Флер де Лис. </strong> <br>
   <br>
   </strong>
-
+.
 <p align="center">
        <a href="https://discord.gg/WjSPcjSBBH">
        <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
