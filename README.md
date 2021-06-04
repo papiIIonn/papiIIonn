@@ -1,11 +1,11 @@
-# SoIaar / readme
+# SoIaris / readme
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/834099678731304993/834104944163291186/ezgif-3-07aa0c29e540.gif" >
 </p>   
 <br>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SoIaar&show_icons=true&theme=tokyonight" >
+<img src="https://github-readme-stats.vercel.app/api?username=SoIaris&show_icons=true&theme=tokyonight" >
 </p>
 <br>
 <br>
@@ -46,5 +46,5 @@
 <br>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoIaar&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoIaris&layout=compact&theme=tokyonight">
 </p>
