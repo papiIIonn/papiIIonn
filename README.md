@@ -1,6 +1,6 @@
 # SoIaris / readme
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/834099678731304993/834104944163291186/ezgif-3-07aa0c29e540.gif" >
+  <img src="https://cdn.discordapp.com/attachments/850291377237786654/850291576210456627/bbc129bfb20fb944d5c8409349a70844.gif" >
 </p>   
 <br>
 <br>
@@ -12,17 +12,18 @@
 
 ---
 
-### <p align="center" > мои навыки. <br/> <br/> ![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-ff0d00?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+### <p align="center" > 私のスキル <br/> <br/> ![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-ff0d00?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
 
 
 <p align="center">
   <br>
-  <strong>Добро пожаловать сукин сын !<br>
-  Это Мона Лиза, и мне 508 лет <br>
-  И Флер де Лис. </strong> <br>
+  <strong>私のgithubへようこそ !<br>
+  アイム・アンナ, そして私は20歳です <br>
+  そして、私はフルール・ド・リスが大好きです.</strong> <br>
   <br>
+<img src="" >
   </strong>
 
 <p align="center">
