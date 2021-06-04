@@ -23,7 +23,7 @@
   アイム・アンナ, そして私は20歳です <br>
   そして、私はフルール・ド・リスが大好きです.</strong> <br>
   <br>
-<img src="" >
+<img src="https://cdn.discordapp.com/attachments/850291377237786654/850328055524360263/ezgif-3-7827ca1f4793.gif" >
   </strong>
 
 <p align="center">
