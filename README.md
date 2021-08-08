@@ -34,7 +34,7 @@ const Embryo = {
          <a href="https://discord.gg/genesis">
        <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
        <a>
-       <a href="https://doxbin.org/Fantome">
+       <a href="https://doxbin.org/user/Fantome">
        <img src="https://img.shields.io/static/v1?label=Doxbin&logo=Doxbin!&message=Click%20Here&color=9cf">
        <a>
        <a href="https://osu.ppy.sh/home">
