@@ -4,7 +4,7 @@
 </p>   
 <br>
 <br>
-<img align='right' src="https://cdn.discordapp.com/attachments/857557180294365235/874018664737820712/ezgif-4-7e159ee14413.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/XsZkUqTyGD1iRQjjrb/giphy.gif?cid=ecf05e47rn7xgiag8ic7yeypnvaakj9cjhve1ccbdff2xcdo&rid=giphy.gif&ct=s" width="230">
 <p align="center">
   
 
