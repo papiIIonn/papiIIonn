@@ -93,10 +93,9 @@ const Embryo = {
       <img src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label">
         <a href="https://www.microsoft.com/fr-fr/windows">
           <img src="https://badgen.net/badge/icon/windows?icon=windows&label">
-         
+         <a/>
          
  ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papiIIonn&show_icons=true&theme=dark">
-  <img src="https://starchart.cc/{username}/{repo}.svg">
