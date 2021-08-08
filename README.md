@@ -42,13 +42,6 @@ const Embryo = {
        </a>
          
  ---
-<p align="right">
-  <img src=">
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=papiIIonn&show_icons=true&theme=dark">
 
-         
-<br>
-<br>
-<br>
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=papiIIonn&show_icons=true&theme=dark">
