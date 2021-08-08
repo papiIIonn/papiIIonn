@@ -60,6 +60,8 @@ const Embryo = {
                                  <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white">
                                 <a href="https://www.lua.org/">
                                  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
+                                  <a href="">
+                                    <img src="https://badgen.net/badge/icon/maven?icon=maven&label">
          <a/>
   
   <p align="center">                                   
@@ -79,6 +81,15 @@ const Embryo = {
          <a href="https://twitter.com/venne_lya">
            <img src="https://img.shields.io/twitter/follow/venne_lya?label=Twitter&style=social">
        </a>
+ 
+<p align='center'>
+  <a href="https://atom.io/">
+    <img src="https://badgen.net/badge/icon/atom?icon=atom&label">
+    <a href="https://www.eclipse.org/ide/">
+      <img src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label">
+        <a href="https://www.microsoft.com/fr-fr/windows">
+          <img src="https://badgen.net/badge/icon/windows?icon=windows&label">
+         
          
  ---
 
