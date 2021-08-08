@@ -1,10 +1,10 @@
 # papiIIonn / readme
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/857557180294365235/874017433407586305/885542.png" >
+  <img src="https://cdn.discordapp.com/attachments/857557180294365235/874058730298306640/1628462235070.png" >
 </p>   
 <br>
 <br>
-<img align='right' src="https://media2.giphy.com/media/XsZkUqTyGD1iRQjjrb/giphy.gif?cid=ecf05e47rn7xgiag8ic7yeypnvaakj9cjhve1ccbdff2xcdo&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://cdn.discordapp.com/attachments/857557180294365235/874058963602251776/giphy_1.gif" width="230">
 <p align="center">
   
 
@@ -23,9 +23,10 @@ const Embryo = {
     }
 };
 ```
-<p align="center"> 私のスキル。 
+### <p align="center"> 私のスキル。 
+  <a/>
     <p align="center">                                   
-────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────
   <a>
     <p align="center">
          <a href="https://www.python.org/">
@@ -69,7 +70,7 @@ const Embryo = {
          <a/>
   
   <p align="center">                                   
-──────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────
 </p>
   
 <p align="center">
