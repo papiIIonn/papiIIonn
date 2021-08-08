@@ -52,6 +52,8 @@ const Embryo = {
                            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
                           <a href="https://www.shellscript.sh/">
                             <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
+                            <a href="">
+                              <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
                                <a href="https://www.java.com/fr/">
                               <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
                                   <a href="https://www.perl.org/">
@@ -82,3 +84,4 @@ const Embryo = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papiIIonn&show_icons=true&theme=dark">
+  <img src="https://starchart.cc/papiIIonn/papiIIonn.svg">
