@@ -57,11 +57,11 @@ const Embryo = {
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
      <a href="https://techdecodetutorials.com/c/how-to-run-c-in-visual-studio-code-on-windows-10/">
        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-         <a href="">
+         <a href="http://maven.apache.org/">
          <img src="https://badgen.net/badge/icon/maven?icon=maven&label">
         <a href="https://www.shellscript.sh/">
          <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
-          <a href="">
+          <a href="https://pypi.org/project/Flask-Language/">
             <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
                            <a href="https://javascriptdownload.org/">
                    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
