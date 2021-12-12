@@ -15,7 +15,7 @@ const Embryo = {
     askMeAbout: ["Odium", "Xeroà", "Vindicta"],
     technologies: {
         frontEnd: {
-            vivid: ["Mayhèm", "ReviveR", "9TH5IN"],
+            vivid: ["Mayhèm", "ReviveR", "Συζυγiα"],
             css: ["Blastix", "Riotz"]
         },
         backEnd: ["Java", "VVelcome"],
